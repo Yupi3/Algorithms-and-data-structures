@@ -1,5 +1,6 @@
 # Algorithms-and-data-structures
 Task 1
+
 ![image](https://user-images.githubusercontent.com/90479501/162611330-d9670f73-e4b2-49dc-96ff-85639b0a6668.png)
 ![image](https://user-images.githubusercontent.com/90479501/162611339-f5383f20-6e60-454a-8fd0-42984eb6554a.png)
 ![image](https://user-images.githubusercontent.com/90479501/162611348-29381863-7e07-4175-a4ea-61cee071c0ae.png)
@@ -9,6 +10,7 @@ Task 1
 
 
 Task 2
+
 ![image](https://user-images.githubusercontent.com/90479501/162611240-8ce525f8-c46c-411f-9311-986e8d5af72d.png)
 ![image](https://user-images.githubusercontent.com/90479501/162611258-a0f2233e-ce46-4794-b9a6-14b0996717c0.png)
 ![image](https://user-images.githubusercontent.com/90479501/162611272-1e6aace9-9c97-4795-88a2-ecd5e649a2a2.png)
